@@ -10,4 +10,4 @@ This is my personal website
 
 ***
 
-<img src='./sunny.jpg width='300'>
+<img src='./sunny.jpg' width='300'>
