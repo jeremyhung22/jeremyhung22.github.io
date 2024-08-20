@@ -9,3 +9,5 @@ This is my personal website
   print(HEY)
 
 ***
+
+<img src='./sunny.jpg width='300'>
