@@ -5,9 +5,6 @@ This is my personal website
 [link](https://jeremyhung22.github.io/)
 
 
-***python
-  print(HEY)
 
-***
 
 <img src='./sunny.jpg' width='300'>
